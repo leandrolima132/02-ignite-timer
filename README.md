@@ -48,4 +48,3 @@ export default tseslint.config({
   },
 })
 ```
-# 02-ignite-timer
