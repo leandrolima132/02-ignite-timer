@@ -1,5 +1,7 @@
 # Ignite Timer
 
+![Descrição do GIF](src/assets/demostrativo.gif)
+
 ## Descrição
 
 O **Ignite Timer** é um projeto desenvolvido como parte do curso de ReactJS da Rocketseat, conhecido como Ignite. Este projeto é um aplicativo de gerenciamento de tempo baseado na técnica Pomodoro, que ajuda a organizar e gerenciar suas tarefas de forma eficiente.
