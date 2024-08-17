@@ -1,6 +1,10 @@
 # Ignite Timer
 
+<<<<<<< HEAD
 ![Descrição do GIF](src/assets/demostrativo.png)
+=======
+![Descrição do GIF](/src/assets/demostrativo.gif)
+>>>>>>> 82d029b09432a6249294f0614aad1034552532d9
 
 ## Descrição
 
